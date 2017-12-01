@@ -1,0 +1,26 @@
+<% var last; %>
+<section class="raids-list">
+<% page.posts.sort('order', 1 ).each(function(post, i){ %>
+  
+  <% if (post.raid !== last) { %>
+
+  <% if (i !== 0) { %>
+    </ul>
+  <% } %>
+
+
+  <h2><%= post.raid %></h2>
+  <ul>
+  <% } %>
+  
+  <li><%= post.order %> - <a href="<%- url_for(post.path) %>"><%= post.title %></a> </li>
+  
+  
+  <% last = post.raid; %>
+<% }) %>
+<% if (page.posts.length){ %>
+</ul>
+  </div></section>
+<% } %>
+
+</section>
