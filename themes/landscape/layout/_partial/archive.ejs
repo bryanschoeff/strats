@@ -1,6 +1,6 @@
 <% var last; %>
 <section class="raids-list">
-<% page.posts.sort('order', 1 ).each(function(post, i){ %>
+<% site.pages.filter(function(item){ return item.raid === 'Antorus'; }).sort('order', 1 ).each(function(post, i){ %>
   
   <% if (post.raid !== last) { %>
 
@@ -18,7 +18,7 @@
   
   <% last = post.raid; %>
 <% }) %>
-<% if (page.posts.length){ %>
+<% if (site.pages.length){ %>
 </ul>
   </div></section>
 <% } %>

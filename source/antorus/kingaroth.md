@@ -1,5 +1,6 @@
 ---
 title: Kin'garoth
+raid: Antorus
 date: 2017-11-27 12:18:23
 order: 7
 ---
