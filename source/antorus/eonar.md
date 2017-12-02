@@ -16,10 +16,12 @@ order: 5
 
 ### Tanks
 - Pick up Fel-Infused Destructor if part of the wave.  
-- Interrupt [Artillery Strike](http://www.wowhead.com/spell=246305) to prevent Eonar from taking unnecessary damage.  
+- Interrupt [Artillery Strike](http://www.wowhead.com/spell=246305) to prevent Eonar from taking unnecessary damage. 
+
 ### DPS & Healers
 - Use CC on adds to slow advance (snares, roots, stuns, knockbacks, etc)  
 - Damage to raid will primarily be coming from Paraxis, not adds themselves.  
+
 ### All
 - Use jump pads and [Surge of Life](http://www.wowhead.com/spell=245781) to move between 3 lanes.
 
@@ -30,6 +32,7 @@ order: 5
 - Felguards: Average speed, average health.  
 - Fel Hounds: Move quickly, but lower health.  
 - Volant Kerapteron (bats):  Average health and speed, but ignore normal walkways.  Can be killed by ranged at middle path.  
+
 ### Big Adds   
 - Fel-Charged Obfuscator
   - Can't be tanked or CC'd.  Also makes nearby adds to be untargetable.  
@@ -47,7 +50,6 @@ order: 5
     - Circle will appear around player.  Move away from rest of raid.  
   
 ## References
-
 - Video
   - Fat Boss [PTR]() | Official] | Bite Sized
   - [Kelani]()
