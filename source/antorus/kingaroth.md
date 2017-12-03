@@ -38,7 +38,7 @@ order: 7
     - Debuff which increases the damage you take from
     - Off-tank taunts off when their stacks fall
   - [Reverberating Strike](http://www.wowhead.com/spell=254926) 
-    - Deals a burst of damage to a random non-tank player and anyone within 5 yards
+    - Deals a burst of damage to a random non-tank melee player and anyone within 5 yards
     - Leaves a Detonation Charge on the ground.
       - This charge is permanent
       - Pulses damage to anyone within 5 yards each time a [Reverberating Strike](http://www.wowhead.com/spell=254926) is cast.
