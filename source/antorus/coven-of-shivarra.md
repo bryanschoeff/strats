@@ -81,11 +81,11 @@ order: 9
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [PTR](https://www.youtube.com/watch?v=ncpVUaFNYJE&index=9&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD) | [Official](https://www.youtube.com/watch?v=8JoPnJPkbZ4&list=PLu3dsh6Bc2HX8s-yU5vcUpkmTwtvNlw0U&index=9) | Bite Sized
+  - [Kelani](https://www.youtube.com/watch?v=WzVpTmcjjWM&list=PL7W5-u3Vdf2I8N3T4bi50EQmDGIH3JKlw&index=9)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/the-coven-of-shivarra-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/coven-of-shivarra-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic
