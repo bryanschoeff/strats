@@ -51,11 +51,11 @@ order: 8
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [PTR](https://www.youtube.com/watch?v=UsL_vUIVTv8&index=8&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD) | [Official](https://www.youtube.com/watch?v=oRn6tePriJs&list=PLu3dsh6Bc2HX8s-yU5vcUpkmTwtvNlw0U) | Bite Sized
+  - [Kelani](https://www.youtube.com/watch?v=eM6QkF2HFOE&index=8&list=PL7W5-u3Vdf2I8N3T4bi50EQmDGIH3JKlw)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/varimathras-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/varimathras-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic
