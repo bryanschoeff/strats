@@ -32,7 +32,7 @@ order: 8
   - After 6 minutes this ability will be replaced by [Torment of Shadows]() making the damage shadow
     - That's a lot of Misery = soft enrage (although not _that_ soft)
 - Any player isn't within 8 yards of somebody else will be hit with [Alone in the Darkness](http://www.wowhead.com/spell=243963)
-  - A burst of shadow damage which will apply v
+  - A burst of shadow damage which will apply [Misery](http://www.wowhead.com/spell=243961)
 - [Shadow Strike](http://www.wowhead.com/spell=243960)
   - Deals a large amount of shadow damage to the active tank
   - Applies [Misery](http://www.wowhead.com/spell=243961)
