@@ -7,11 +7,11 @@ order: 7
 
 ## Strat
 ### Room Setup / Positioning
-### Phase I
+#### Phase I
 - Boss is stationary in the middle of the room
 - Non-tanks (including off-tank) will be loosely spread out to the right of the tank (90 degrees-ish) 
 
-### Phase II
+#### Phase II
 - Everyone go to your assigned pod
   - Everyone will be assigned Left or Right pod
   - The pod you go to will shift one to-the-right each round
