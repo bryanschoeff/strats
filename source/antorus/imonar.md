@@ -70,11 +70,11 @@ order: 6
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [PTR](https://www.youtube.com/watch?v=DfSqXOVs0mY&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD&index=6) | [Official](https://www.youtube.com/watch?v=LWJdjnSA2CU&index=6&list=PLu3dsh6Bc2HX8s-yU5vcUpkmTwtvNlw0U) | Bite Sized
+  - [Kelani](https://www.youtube.com/watch?v=628FSyOoiDE&list=PL7W5-u3Vdf2I8N3T4bi50EQmDGIH3JKlw&index=6)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/imonar-the-soulhunter-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/imonar-the-soulhunter-antorus-the-burning-throne-strategy-guide) (high detail)
 
 
 ## Heroic
