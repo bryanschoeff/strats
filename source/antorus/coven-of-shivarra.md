@@ -18,11 +18,11 @@ order: 9
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [Official](https://youtu.be/8JoPnJPkbZ4) | Bite Sized
+  - [Kelani](https://youtu.be/WzVpTmcjjWM)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/the-coven-of-shivarra-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/coven-of-shivarra-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic

@@ -18,11 +18,11 @@ order: 7
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [Official](https://youtu.be/lrI0Eo3q6mc) | Bite Sized
+  - [Kelani](https://youtu.be/zUiXB5s-ZLU)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/kin-garoth-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/kingaroth-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic

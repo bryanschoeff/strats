@@ -91,7 +91,7 @@ order: 3
 ## References
 
 - Video
-  - Fat Boss [PTR](https://www.youtube.com/watch?v=2i_nKvR7878&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD&index=3) | Official] | Bite Sized
+  - Fat Boss [Official](https://youtu.be/nAH6h2RkjLI) | Bite Sized
   - [Kelani](https://www.youtube.com/watch?v=5fJylg6Jeko)
 - Text
   - [Icy Veins](http://www.wowhead.com/antoran-high-command-antorus-raid-strategy-guide)

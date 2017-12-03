@@ -18,11 +18,11 @@ order: 5
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [Official](https://youtu.be/YckJcL_avKY) | Bite Sized
+  - [Kelani](https://youtu.be/Brdh5i2PW9s)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/eonar-the-life-binder-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/eonar-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic

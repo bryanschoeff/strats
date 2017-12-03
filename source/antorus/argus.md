@@ -18,11 +18,11 @@ order: 11
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [PTR](https://youtu.be/H0lEq7RPVx4) | Official | Bite Sized
+  - [Kelani](https://youtu.be/VYle36hHkNA)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/argus-the-unmaker-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/argus-the-unmaker-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic

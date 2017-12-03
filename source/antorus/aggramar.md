@@ -18,11 +18,11 @@ order: 10
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [PTR](https://www.youtube.com/watch?v=ii02D6XkLeM) | Official | Bite Sized
+  - [Kelani](https://youtu.be/_7WdK97VceI)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/aggramar-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/aggramar-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 
 ## Heroic

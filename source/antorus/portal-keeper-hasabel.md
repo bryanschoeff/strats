@@ -18,11 +18,11 @@ order: 4
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
-  - [Kelani]()
+  - Fat Boss [Official](https://youtu.be/46EtWhm5JPc) | Bite Sized
+  - [Kelani](https://youtu.be/YhEQmV6OHoU)
 - Text
-  - [Icy Veins]()
-  - [Wowhead]() (high detail)
+  - [Icy Veins](https://www.icy-veins.com/wow/portal-keeper-hasabel-guide-for-antorus-the-burning-throne)
+  - [Wowhead](http://www.wowhead.com/portal-keeper-hasabel-antorus-the-burning-throne-strategy-guide) (high detail)
 
 
 ## Heroic
