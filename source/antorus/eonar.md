@@ -51,8 +51,8 @@ order: 5
   
 ## References
 - Video
-  - Fat Boss [Official](https://youtu.be/YckJcL_avKY) | Bite Sized
-  - [Kelani](https://youtu.be/Brdh5i2PW9s)
+  - Fat Boss [PTR](https://www.youtube.com/watch?v=TQ4o9kHEess&index=5&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD) | [Official](https://www.youtube.com/watch?v=YckJcL_avKY&index=5&list=PLu3dsh6Bc2HX8s-yU5vcUpkmTwtvNlw0U) | Bite Sized
+  - [Kelani](https://www.youtube.com/watch?v=Brdh5i2PW9s&index=4&list=PL7W5-u3Vdf2I8N3T4bi50EQmDGIH3JKlw)
 - Text
   - [Icy Veins](https://www.icy-veins.com/wow/eonar-the-life-binder-guide-for-antorus-the-burning-throne)
   - [Wowhead](http://www.wowhead.com/eonar-antorus-the-burning-throne-raid-strategy-guide) (high detail)
