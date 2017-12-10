@@ -10,18 +10,15 @@ order: 11
 
 
 ### Tanks  
-  
 - Only one tank in front to minimize [Sweeping Scythe](http://www.wowhead.com/spell=248499)  
 - Protect players affected by [Soulbomb](http://www.wowhead.com/spell=251570) with [Avatar of Aggramar](http://www.wowhead.com/spell=255199)  
 - Keep add with [Sword of Cosmos](http://www.wowhead.com/spell=255496)  
   
 ### DPS & Healers  
-  
 - Move [Soulbomb](http://www.wowhead.com/spell=251570) and [Soulburst](http://www.wowhead.com/spell=250669) away from raid  
 - If you have [Soulbomb](http://www.wowhead.com/spell=251570) also be near tank with [Avatar of Aggramar](http://www.wowhead.com/spell=255199)  
   
 ## Abilities  
-  
 ### Phase 1
 - [Sweeping Scythe](http://www.wowhead.com/spell=248499)  
   - Cleave in semi circle in front of boss.  Face away from raid.  Only one tank in front at a time.  
@@ -33,7 +30,6 @@ order: 11
   - Debuff.  Move behind raid to drop.  Also leaves [Death Fog](http://www.wowhead.com/spell=248167)  
 - [Tortured Rage](http://www.wowhead.com/spell=257296)  
   - Burst damage to raid.  
-  
 - Golganneth's Aid  
   - 2 debuffs placed on players. After 5s, an orb will spawn at that players location.  
   - White orb will give versatility and haste.  Lightning orb will give crit and mastery.  
@@ -42,7 +38,6 @@ order: 11
   - Recommend dropping one in hitbox of boss and one a little further back.  
   
 ### Phase 2 (70% health)
-  
 - [Golganneth's Wrath](http://www.wowhead.com/spell=256674)  
   - Clears all death fog from phase 1.  Move to center of room.
   - Once done, move boss to side of room.  
@@ -56,7 +51,6 @@ order: 11
   - [Soulbomb](http://www.wowhead.com/spell=251570) player must also move 45 yards away from raid/other players.  However, must stand near tank affected with [Avatar of Aggramar](http://www.wowhead.com/spell=255199) to survive.  
   - Tank with [Avatar of Aggramar](http://www.wowhead.com/spell=255199) should still use a cd to help survive damage.  
   - At 50 energy only [Soulburst](http://www.wowhead.com/spell=250669) will happen.  
-
 - Aggramar's Aid
   - [Avatar of Aggramar](http://www.wowhead.com/spell=255199)  
     - Buff to current tank.  100% more health and 40% movement speed.  
@@ -64,7 +58,6 @@ order: 11
     - Use to help player with [Soulbomb](http://www.wowhead.com/spell=251570) survive.  
   
 ### Phase 3 (40% health)
-  
 - Argus Splits into 7 adds around room.  
 - Loosely stack in middle of room.  
 - [Cosmic Ray](http://www.wowhead.com/spell=252707)  
@@ -80,14 +73,12 @@ order: 11
     - Looks like daggers.  Increases melee damage by 300%.  Tank near other adds  
   - Sword of the Cosmos  
     - Looks like 1H sword.  200% melee damage increase, also buffs other adds in 20yrds.  
-    - Tank in center of room.  
-
+    - Tank in center of room.
 - Norgannon's Aid
   - 15s into phase, all adds will be debuff to become vulnerable to 1 school of magic/physical.  
   - Focus on add that matches your damage type, but be ready to interrupt [Cosmic Beacon](http://www.wowhead.com/spell=252616)  
 
 ### Phase 4 (adds in phase 3 die)
-  
 - Argus kills raid  
 - Eonar creates a tree that allows raid to release spirit.  
 - In spirit realm, avoid adds, run to tree to return to life.  
@@ -122,7 +113,6 @@ order: 11
 
 
 ## Heroic
-  
 - Buffs in phase 1 only last for 30s instead of 60s.
 - [Sweeping Scythe](http://www.wowhead.com/spell=248499) debuff is now 150% per stack instead of 75%.
 - Adds in phase 3 become immune to interrupts for 20s after being interrupted.
