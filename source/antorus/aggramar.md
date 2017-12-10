@@ -22,7 +22,7 @@ order: 10
 - Stay on top of one another
 - Taunt when your stack of [Taeshalach's Reach](http://www.wowhead.com/spell=243431) fall off (5-7)
 - During [Taeshalach Technique](http://www.wowhead.com/spell=244688) run rotation of
-  - Front (breaker), swap on raid (rend), front (breaker), swap on raid (rend), out
+  - Front (breaker), on raid (rend), swap on front (breaker), on raid (rend), out
 - Each pick up a Flame in transitions (one of you should mark yours)
 
 ### DPS & Healers
