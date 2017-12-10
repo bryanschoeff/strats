@@ -13,7 +13,7 @@ order: 10
 - DPS and healers on back of boss
 
 #### Phase I
-- Healers & DPS spread at lest 4 yards
+- Healers & DPS spread at least 4 yards
 
 #### Phase II & III
 - Range spread more 
