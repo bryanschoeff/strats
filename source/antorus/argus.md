@@ -7,7 +7,28 @@ order: 11
 
 ## Strat
 ### Room Setup / Positioning
+#### Phase I 
+- Boss in center of room facing away from raid
+- Raid stacked tightly on back side of boss
 
+#### Phase II
+- IIa 
+  - Everyone stays in center until storm is done
+- IIb 
+  - Move boss to outside of room
+  - Healers and DPS hang out on back side / near center of room
+  - Run [Soulburst](http://www.wowhead.com/spell=250669) out
+  - Run [Soulbomb](http://www.wowhead.com/spell=251570) to designated location
+  - Tank with [Avatar of Aggramar](http://www.wowhead.com/spell=255199) go protect [Soulbomb](http://www.wowhead.com/spell=251570) target
+
+### Phase III
+- Kill adds
+- Avoid [Cosmic Ray](http://www.wowhead.com/spell=252707)  
+- Bring add with _Sword of the Cosmos_ to middle of the room
+- Bring add with _Blade of the Eternal_ to current target (for cleave)
+
+#### Phase IV 
+- Position the same as Phase II (IIb in particular)
 
 ### Tanks  
 - Only one tank in front to minimize [Sweeping Scythe](http://www.wowhead.com/spell=248499)  
