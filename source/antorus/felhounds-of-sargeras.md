@@ -71,6 +71,7 @@ order: 2
 
 ### F'harg (fire)
 - Casts [Molten Touch](http://www.wowhead.com/spell=244086)
+  - At 66% energy
   - Picks up a few people and stun them for 1.8 seconds
     - They are suspended in the air
     - Shoot fire circles at other players (need to be avoided)
