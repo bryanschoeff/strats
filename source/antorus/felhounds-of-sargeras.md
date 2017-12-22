@@ -60,6 +60,20 @@ order: 2
 
 
 ## Heroic
+### Shatug (shadow)
+- Will debuff several people with [Weight of Darkness](http://www.wowhead.com/spell=244071)
+  - At 66% energy
+  - 5 second debuff 
+  - Slows over its duration
+  - When it expires, fears the target and anyone within 8 yards for 20 seconds
+    - Fear duration is split
+    - If 2 other players soak it, the fear does not happen
+
+### F'harg (fire)
+- Casts [Molten Touch](http://www.wowhead.com/spell=244086)
+  - Picks up a few people and stun them for 1.8 seconds
+    - They are suspended in the air
+    - Shoot fire circles at other players (need to be avoided)
 - Both hounds have 66% energy abilities; I will add these to the strat later
 
 ## Mythic
