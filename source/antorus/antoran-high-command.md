@@ -102,7 +102,15 @@ order: 3
 - While in a pod [Psychic Assault](http://www.wowhead.com/spell=244172) stacks, doing increasing damage
 - When leaving a pod you get the [Psychic Scarring](http://www.wowhead.com/spell=244388) debuff
   - Can't enter a pod for 3 minutes
+
 ## Mythic
 - Ask Randy
 
 ## Notes
+### Pod Experience - Normal Order (has experience filling in)
+- Pod 1
+  - Matt, Dain, (Christy)
+- Pod 2
+  - Jason, Chad, (Zar, Bryan, Dave)
+- Pod 3
+  - Randy, Ciz
