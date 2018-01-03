@@ -22,7 +22,7 @@ order: 3
 - Melee on back side of boss
 - Range loosely spread out behind boss
 
-### ALl
+### All
 - Interrupt [Fanatical Pyromancer](http://www.wowhead.com/npc=127724) on [Pyroblast](http://www.wowhead.com/spell=246505) cast.
 
 ### Kill
