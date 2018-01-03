@@ -65,7 +65,6 @@ order: 3
     - Placing on adds-near-boss is best.
 
 #### Phase II (Chief Engineer Ishkar active)
-- 
 - Admiral Svirax
   - [Fusillade](http://www.wowhead.com/spell=244627)
     - After a charge up time, she will deal a flat burst of fire damage to the entire raid.
