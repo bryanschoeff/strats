@@ -113,3 +113,5 @@ order: 3
   - Jason, Chad, (Zar, Bryan, Dave)
 - Pod 3
   - Randy, Ciz
+
+- Someone should look to do some mine cleaning if there is a significant amount still there after round one (Cretan has been doing this)

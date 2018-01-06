@@ -81,3 +81,4 @@ order: 2
 - Ask Randy
 
 ## Notes
+- Moved Mike primarily to Fire dog due to the common occurrence of that tank being hit with the fear (and his ability to immune it)

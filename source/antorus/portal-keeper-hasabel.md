@@ -132,3 +132,9 @@ order: 4
 - Ask Randy
 
 ## Notes
+- Need both reliable interrupts and good AoE left on the main platform.
+  - First heroic kill we used: Arthricia, Forcas, Raijinni, & Winchu
+  - This left 4 DPS for portal (so an even split)
+- Swapped Dave to portal healing due to the AoE damage going out on the platform during the portal phases; seemed to help
+- Forgot to talk about final portal healer-debuff (mana regen); need to keep that in mind if things get critical there
+- Final phase is a total shit show (heroic)
