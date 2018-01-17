@@ -7,30 +7,31 @@ order: 1
 
 ## Strat
 ### Room Setup / Positioning
+![Positioning](/strats/images/Garothi-setup.png)
 - Boss stays in the middle of the far edge of the room.
-- Right side will be reserved for tanks to run [Fel Bombardment](http://www.wowhead.com/spell=246220).
-- Left and back will be reserved for DPS & Healers to run [Decimation](http://www.wowhead.com/spell=244410).
+- Left side will be reserved for tanks to run [Fel Bombardment](http://www.wowhead.com/spell=246220).
+- Right and back will be reserved for DPS & Healers to run [Decimation](http://www.wowhead.com/spell=244410).
 
 ### Tanks
 - Off tank taunts when [Fel Bombardment](http://www.wowhead.com/spell=246220) hits main tank.
 - Tank with [Fel Bombardment](http://www.wowhead.com/spell=246220) runs it out of the raid until it drops, then avoids missles until they stop.
 
 ### DPS & Healers
-- Run [Decimation](http://www.wowhead.com/spell=244410) to the left or back of the room
+- Run [Decimation](http://www.wowhead.com/spell=244410) to the right or back of the room
   - Everyone stay out of the circles when they drop.
 - Soak [Annihilation](http://www.wowhead.com/spell=244761); range leave the one closest to the boss for melee.
 
 ### Phases
 - Phase 1 
   - Kill the boss
-  - Tanks to right; melee to left.
+  - Tanks to left; melee to right.
   - Loose spread from range in middle of room
 - Transition 1 
   - Kill the Annihilator
   - Run to the back of the room to mitigate [Eradication](http://www.wowhead.com/spell=244969)
 - Phase 2 (empowered weapon) 
   - Kill the boss
-  - Melee and range stack on left mark. Move to right mark when circles from [Decimation](http://www.wowhead.com/spell=244410) drop. Swap marks on every [Decimation](http://www.wowhead.com/spell=244410).
+  - Melee and range stack on right mark. Move to left mark when circles from [Decimation](http://www.wowhead.com/spell=244410) drop. Swap marks on every [Decimation](http://www.wowhead.com/spell=244410).
 - Transition 2 
   - Kill the remaining gun (Decimator)
   - Run to the back of the room to mitigate [Eradication](http://www.wowhead.com/spell=244969)

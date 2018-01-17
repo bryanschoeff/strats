@@ -7,10 +7,11 @@ order: 5
 
 ## Strat
 ### Room Setup / Positioning
+![Positioning](/strats/images/Eonar-setup.jpg)
 - Eonar is at center of room.  Mobs will move down one of 3 paths (+ air path) to Eonar.  Upon reaching her, will damage her.  
-- 3 main lanes: upper, mid, lower.  Portals will spawn add on up to 2 of these paths at once.   
+- 3 main lanes: top, mid, bottom.  Portals will spawn add on up to 2 of these paths at once.   
 - Goal: Kill adds before they reach Eonar, and collect energy they drop.  Upon reaching 100 energy, Eonar will damage Paraxis ship.  4 casts will destroy ship and win fight.
-- Portal order: mid, lower, mid, top/bottom, mid, bottom (slightly after previous mid), top(bats), top, mid
+- Portal order: mid, bottom, mid, top/bottom, mid, bottom (slightly after previous mid), top(bats), top, mid
   - Mini map will have indicators as well for where portals are going to spawn.
 
 
@@ -69,3 +70,4 @@ order: 5
 - Ask Randy
 
 ## Notes
+- "Forward team" strategy has been working, but I think we should still remain flexible on it.

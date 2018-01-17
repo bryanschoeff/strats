@@ -1,6 +1,10 @@
 .article
   margin: block-margin 0
 
+  em 
+    text-decoration: underline
+    font-weight: bold
+
 .article-inner
   @extend $block
   overflow: hidden
@@ -71,9 +75,11 @@
     margin-bottom: line-height
   img, video
     max-width: 100%
-    height: auto
+    width: auto
+    height: 400px
     display: block
-    margin: auto
+    margin: 0
+    
   iframe
     border: none
   table

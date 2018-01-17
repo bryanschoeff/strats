@@ -22,7 +22,7 @@ order: 3
 - Melee on back side of boss
 - Range loosely spread out behind boss
 
-### ALl
+### All
 - Interrupt [Fanatical Pyromancer](http://www.wowhead.com/npc=127724) on [Pyroblast](http://www.wowhead.com/spell=246505) cast.
 
 ### Kill
@@ -65,7 +65,6 @@ order: 3
     - Placing on adds-near-boss is best.
 
 #### Phase II (Chief Engineer Ishkar active)
-- 
 - Admiral Svirax
   - [Fusillade](http://www.wowhead.com/spell=244627)
     - After a charge up time, she will deal a flat burst of fire damage to the entire raid.
@@ -99,8 +98,20 @@ order: 3
 
 
 ## Heroic
+- While in a pod [Psychic Assault](http://www.wowhead.com/spell=244172) stacks, doing increasing damage
+- When leaving a pod you get the [Psychic Scarring](http://www.wowhead.com/spell=244388) debuff
+  - Can't enter a pod for 3 minutes
 
 ## Mythic
 - Ask Randy
 
 ## Notes
+### Pod Experience - Normal Order (has experience filling in)
+- Pod 1
+  - Matt, Dain, (Christy)
+- Pod 2
+  - Jason, Chad, (Zar, Bryan, Dave)
+- Pod 3
+  - Randy, Ciz
+
+- Someone should look to do some mine cleaning if there is a significant amount still there after round one (Cretan has been doing this)
