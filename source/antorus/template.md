@@ -18,7 +18,7 @@ order:
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official] | Bite Sized
+  - Fat Boss [PTR]() | Official | Bite Sized
   - [Kelani]()
 - Text
   - [Icy Veins]()

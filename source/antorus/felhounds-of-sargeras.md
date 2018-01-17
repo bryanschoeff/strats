@@ -52,10 +52,10 @@ order: 2
 ## References
 
 - Video
-  - Fat Boss [PTR](https://www.youtube.com/watch?v=DejkuitW6UI&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD&index=2) | Official] | Bite Sized
+  - Fat Boss [Official](https://youtu.be/ulKNH1cIUHg) | Bite Sized
   - [Kelani](https://www.youtube.com/watch?v=VCq7NRZxPDE)
 - Text
-  - [Icy Veins](https://www.icy-veins.com/wow/felhounds-of-sargeras-abilities)
+  - [Icy Veins](https://www.icy-veins.com/wow/felhounds-of-sargeras-guide-for-antorus-the-burning-throne)
   - [Wowhead](http://www.wowhead.com/felhounds-of-sargeras-antorus-the-burning-throne-raid-strategy-guide) (high detail)
 
 

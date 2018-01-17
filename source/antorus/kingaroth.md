@@ -88,8 +88,8 @@ order: 7
 ## References
 
 - Video
-  - Fat Boss [PTR](https://www.youtube.com/watch?v=CiznHWgehbA&index=7&list=PLu3dsh6Bc2HXf2og3ie8L_Au-3tbxNlXD) | Official | Bite Sized
-  - [Kelani](https://www.youtube.com/watch?v=zUiXB5s-ZLU&index=7&list=PL7W5-u3Vdf2I8N3T4bi50EQmDGIH3JKlw)
+  - Fat Boss [Official](https://youtu.be/lrI0Eo3q6mc) | Bite Sized
+  - [Kelani](https://youtu.be/zUiXB5s-ZLU)
 - Text
   - [Icy Veins](https://www.icy-veins.com/wow/kin-garoth-guide-for-antorus-the-burning-throne)
   - [Wowhead](http://www.wowhead.com/kingaroth-antorus-the-burning-throne-raid-strategy-guide) (high detail)

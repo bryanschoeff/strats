@@ -70,7 +70,7 @@ order: 1
 ## References
 
 - Video
-  - Fat Boss [PTR]() | Official | Bite Sized
+  - Fat Boss [Official](https://youtu.be/oRn6tePriJs) | Bite Sized
   - [Kelani](https://www.youtube.com/watch?v=6TlEB-tYFgY)
 - Text
   - [Icy Veins](https://www.icy-veins.com/wow/garothi-worldbreaker-guide-for-antorus-the-burning-throne)
