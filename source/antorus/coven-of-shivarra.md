@@ -108,3 +108,87 @@ order: 9
 - Ask Randy
 
 ## Notes
+
+## CC options 
+
+# DPS
+
+Elemental Shaman
+  - Earthbind Totem - 20s totem, slows enemies within 10 yards
+  - Earthgrab Totem (talent) - 20s totem, roots w/in 8 yards for 8s, previously rooted get a 50% slow 
+
+Fire Mage
+  - Frost Nova - 8s root to enemies within 12 yards of you
+  - Ring of Frost (talent **) - Targeted cast, 10s ring at location which incapacitates enemies entering the ring for 10s (limit of 10 targets)
+  - Ice Ward (talent **) - Second charge of Frost Nova
+
+Frost Mage
+  - (Same as Fire)
+
+Havoc Demon Hunter
+  - Chaos Nova - 5s stun to all "nearby" enemies (nearby appears to be 8 yards - DANGEROUS)
+  - Vengeful Retreat - Vault away; nearby enemies slowed 70% for 3s (DANGEROUS)
+  - Master of the Glaive (talent) - Throw Glaive has 2 charges and slows all enemies hit by 50% for 6s (because of the damage component, this likely does not work)
+
+Windwalker Monk
+  - Paralysis - Incapacitates the target for 1 minute
+  - Ring of Peace (talent) - Targeted ring; enemies who enter are "ejected" from the ring
+
+Retribution Paladin
+  - Hammer of Justice - 6s single-target stun (10 yard range)
+  - Hand of Hindrance - Single-target, 70% slow for 10s (30 yard range)
+  - Blinding Light (talent) - 6s disorient to all enemies within 10 yards
+
+Shadow Priest 
+  - Psychic Scream - 8s fear for up to 5 enemies within 8 years of you (DANGEROUS)
+  - Dominant Mind (talent **) - Mind Control (30s disorient on target) allows you to maintain control of your character
+
+
+# Tanks
+
+Blood Death Knight
+  - Gorefiend's Grasp - Targeted AoE (20 yards) death grip
+  - Asphyxiate - 5s targeted stun (20 yard range)
+  - Tightening Grasp - Adds a 70% slow to enemies in Death and Decay
+
+Protection Warrrior
+  - Thunder Clap - Roots all enemies within 8 yards for 1s then applies a 50% slow for 10s
+  - Intimidating Shout - Fear on targeted enemy (8 yard range) + up to 5 additional enemies within 8 yards
+  - Piercing Howl - 50% slow on all enemies within 15 yards for 15s
+
+Guardian Druid
+  - Incapacitating Roar - 3s stun to all enemies within 10 yards (20 yards with Guttural Roars talent)
+  - Entangling Roots - 30s root on single target
+  - Mass Entanglement (talent) - Roots the target and all enemies with 15 yards in place for 30 sec
+
+Vengance Demon Hunter 
+  - Sigil of Misery - targeted location, 30s fear for all enemies within range (8 yards)
+  - Sigil of Chains - targeted location, after 2s activates pulling all enemies within 8 yards to its center and slowing them by 70% for 6s
+
+
+# Healers
+
+Restoration Druid
+  - Entangling Roots - 30s root on single target
+  - Mass Entanglement (talent) - Roots the target and all enemies with 15 yards in place for 30 sec
+  - Ursol's Vortex - 8s vortex which slows enemies within it by 50% and pulls back enemies to the center the first time they try to leave the area
+
+Holy Paladin
+  - Hammer of Justice - 6s single-target stun (10 yard range)
+  - Blinding Light (talent) - 6s disorient to all enemies within 10 yards
+
+Holy Priest
+  - Censure (talent **) - 5s targeted stun
+  - Shining Force (talent **) - Knocks away enemies within 10 yards from a friendly target and slows them by 70% for 3 sec (DANGEROUS)
+
+Disc Priest
+  - Psychic Scream - 8s fear for up to 5 enemies within 8 years of you (DANGEROUS)
+  - Shining Force (talent **) - Knocks away enemies within 10 yards from a friendly target and slows them by 70% for 3 sec (DANGEROUS)
+  - Dominant Mind (talent **) - Mind Control (30s disorient on target) allows you to maintain control of your character
+
+Mistweaver Monk
+  - Paralysis - Incapacitates the target for 1 minute
+  - Ring of Peace (talent) - Targeted ring; enemies who enter are "ejected" from the ring
+
+
+** mutually exclusive talents
